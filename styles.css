@@ -53,9 +53,9 @@ body {
 
 @media screen and (max-width: 1200px){
   #level-title {
-    font-size: 3.5rem;
+    font-size: 2.8rem;
     height: 10rem;
-    width: 100%;
+    width: 85%;
     margin: 10% auto;
     line-height: 2;
   }
