@@ -52,11 +52,13 @@ body {
   background-color: grey;
 }
 
-@media screen and (min-width: 355px) and (max-width: 1200px){
+@media screen and (max-width: 1200px){
   #level-title {
-    font-size: 1.5rem;
-    height: 2rem;
-    margin:  10%;
+    font-size: 3.5rem;
+    height: 10rem;
+    width: 100%;
+    margin: 15% auto;
+    line-height: 2;
   }
 
   .container{
@@ -64,8 +66,8 @@ body {
   }
  
   .btn{
-    width: 150px;
-    height: 150px;
-    margin: 10px;
+    width: 350px;
+    height: 350px;
+    margin: 30px;
   }
 }
